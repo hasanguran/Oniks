@@ -21,7 +21,7 @@ Temanın en önemli özelliği. Alıcı tek tek ürün aramak yerine petinin gü
 
 ![Kitler arasında geçiş](images/kitler.gif)
 
-![Kitler](images/kitler.png)
+![Kitler](images/kitler.jpg)
 
 **Editörde:** Ana sayfa › KitShowcase bölümü › **Setler** › Set ekle.
 
@@ -38,7 +38,7 @@ Temanın en önemli özelliği. Alıcı tek tek ürün aramak yerine petinin gü
 
 **Kit sayfası:** editörde yeni bir sayfa aç, KitHero ve KitProducts bölümlerini ekle. KitProducts kademe çubuğunu ("1 ürün daha seç, %15 indirim kazan") kampanyadan çizer.
 
-![Kit sayfası](images/kit-sayfasi.png)
+![Kit sayfası](images/kit-sayfasi.jpg)
 
 
 | # | Editörde | Sitede |
@@ -57,7 +57,7 @@ Alıcı petini 10 saniyede tanıtır (tür, kilo, ad). Ürün listeleri pete uya
 
 ![Pet ekleyince kategori değişir](images/pet-kimligi.gif)
 
-![Pet Kimliği](images/pet-kimligi.png)
+![Pet Kimliği](images/pet-kimligi.jpg)
 
 **Editörde:** Header › Alt öğeler › **Pet Kimliği**. Tür, yaş, kilo, beden ve hassasiyet seçenekleri, kilodan beden önerisi, cinsler ve porsiyon hesabı buradadır. Editörde görünen "Pet ayarları kontrolü" kutusu hatalı satırları gösterir.
 
@@ -85,7 +85,7 @@ Alıcı petini 10 saniyede tanıtır (tür, kilo, ad). Ürün listeleri pete uya
 Önerilen beden, beden seçicide petin işareti, "Yanına ekle" ürünleri, kargo ve iade notları. Altında uyum hesaplayıcı ve mama geçiş planı var.
 *Suggested size, add-alongside products, a portion calculator and a food transition plan.*
 
-![Ürün sayfası](images/urun-sayfasi.png)
+![Ürün sayfası](images/urun-sayfasi.jpg)
 
 **Panelde (ürün özel alanları):**
 
@@ -113,7 +113,7 @@ Alıcı petini 10 saniyede tanıtır (tür, kilo, ad). Ürün listeleri pete uya
 Ücretsiz kargo çubuğu, kit indirimi çubuğu, sepette her kampanyanın ayrı satırı ve indirim kodu, Görünümü satın al bölümünde "hepsini ekle", hediye paketi ve "Sepetini tamamla".
 *Free shipping bar, discount bar, campaign lines, coupon, gift wrap and cart suggestions.*
 
-![Sepeti büyüten kurgular](images/sepeti-buyutenler.png)
+![Sepeti büyüten kurgular](images/sepeti-buyutenler.jpg)
 
 | Kurgu | Editörde |
 |---|---|
@@ -136,7 +136,7 @@ Alıcı petini 10 saniyede tanıtır (tür, kilo, ad). Ürün listeleri pete uya
 On bölüm; sırası editörden değişir.
 *Ten sections; the order is set in the editor.*
 
-![Ana sayfa](images/ana-sayfa.png)
+![Ana sayfa](images/ana-sayfa.jpg)
 
 | Bölüm | Editörde öne çıkan ayar |
 |---|---|
@@ -189,7 +189,7 @@ Yağmur, kar, sıcak ve soğuk için başlık ve ürünler ayrı girilir. Şehir
 Temada renk şeması yerine her kitin kendi rengi var. Genel renkler ve yazı tipleri Stil panelinden değişir.
 *Each kit has its own color; global colors and fonts are in the Style panel.*
 
-![Renkler ve kitler](images/renkler-ve-kitler.png)
+![Renkler ve kitler](images/renkler-ve-kitler.jpg)
 
 **Editörde:** Stil › Renkler ve Yazı tipleri. Kit rengi: KitShowcase › Setler › Set rengi; kit sayfasında KitHero › Zemin rengi (yazı rengi boşsa zeminden seçilir).
 
@@ -200,13 +200,13 @@ Temada renk şeması yerine her kitin kendi rengi var. Genel renkler ve yazı ti
 Kit çipleri yana kayar, pet şeridi altta kalır, seçenekler alttan açılan bir panelde gösterilir. Logo boyutu ve hizası telefon için ayrı ayarlanır (Header › Üst alan › Logo ve simgeler).
 *The same flow on the phone; logo size and alignment have their own phone settings.*
 
-![Mobil](images/mobil.png)
+![Mobil](images/mobil.jpg)
 
 ---
 
 ## 8. Panel → site ve editörde açık / sabit · Panel to site
 
-![Panel → site](images/panel-site.png)
+![Panel → site](images/panel-site.jpg)
 
 | Açık (editörden değişir) | Sabit |
 |---|---|
